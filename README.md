@@ -1,6 +1,6 @@
-# disenos
+# designs
 
-A new Flutter project.
+This app has 3 designs that i'm gonna use later
 
 ## Getting Started
 
